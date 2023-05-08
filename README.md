@@ -1,6 +1,6 @@
 # Simple Video Scrambling Research
 
-**DISCLAIMER:** this repository is solely maintained for research purposes. The maintainers of this repository do not support the use of this repository in the distribution of information in any form. Therefore, the maintainers are not responsible for any financial or legal consequences incurred by the misuse of this repository.
+**DISCLAIMER:** this repository is solely maintained for research purposes. The maintainers of this repository do not support the use of this repository in the distribution of information to the general public in any form. Therefore, the maintainers are not responsible for any financial or legal consequences incurred by the misuse of this repository.
 
 
 ## What is this repository about
